@@ -1,3 +1,3 @@
-function showMessage(){
-alert("Resume will be uploaded soon!");
+function showResume(){
+alert("Resume will be added soon!");
 }
